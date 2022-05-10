@@ -1,4 +1,4 @@
-name: centernet-vanilla
+name: SSNet
 channels:
   - defaults
 dependencies:
